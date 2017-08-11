@@ -1,0 +1,4 @@
+C:\Users\DavidLin\Documents\Whatis3D\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\DavidLin\Documents\Whatis3D\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\DavidLin\Documents\Whatis3D\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\DavidLin\Documents\Whatis3D\App\Whatis3D\Whatis3D.csproj;x86
